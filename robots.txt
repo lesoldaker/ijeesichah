@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faisaedoav.southfox.cf/sitemap.xml
